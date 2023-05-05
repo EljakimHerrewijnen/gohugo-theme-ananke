@@ -1,3 +1,8 @@
 module:
   hugoVersion:
     min: "0.84.0"
+
+params:
+  read_more_copy: Read more
+  rtd_link: Documentation
+  git_link: Code
